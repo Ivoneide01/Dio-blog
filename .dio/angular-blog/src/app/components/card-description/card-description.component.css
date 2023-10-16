@@ -1,0 +1,24 @@
+.container_menu-card-description{
+    
+    width: 300px;
+
+    
+}
+.card-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container__description-card-content{
+    display: flex;
+    flex-direction: row;
+
+}
+.container__card__separator{
+    margin-top: 20px;
+    
+}
+
+
+
