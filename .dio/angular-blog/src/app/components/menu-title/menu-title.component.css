@@ -1,0 +1,15 @@
+.container_menu-titile{
+    color: white;
+}
+.container_menu-titile > h1{
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+}
+.container_menu-titile > hr{
+    margin-top: 5px;
+    margin-bottom: 5px;
+ 
+}

@@ -1,0 +1,23 @@
+.container_menu-card{
+    border: solid white 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 400px;
+
+    height: 600px;
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+.card-title {
+    font-size: 15px ;
+    margin-top: 10px;
+}
+.card-description {
+    font-size: 9px;
+    color: gray;
+    margin-top: 10px;
+}
